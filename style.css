@@ -23,12 +23,6 @@ body {
     background-attachment: fixed;
     background-size: cover;
     z-index: 1;
-    @media (max-width: 575.98px) {
-  /* Reduce the width of all images to 100% of the parent element */
-  img {
-    width: 100%;
-    }
-  }
 }
 
 .wellcomeMsg {
